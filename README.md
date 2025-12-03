@@ -22,20 +22,7 @@ I thrive on building applications that enhance user experiences and streamline p
 
 ## Featured Projects
 
-- **[connext](https://github.com/ruona-okungbowa/connext)**: A utility library designed to streamline the development of interactive user interfaces using multiple programming languages.
-
 - **[codecraft](https://github.com/ruona-okungbowa/codecraft)**: An AI-powered web application that simplifies job matching, resume creation, and interview preparation for career advancement.
-
-- **[valentinesWeb](https://github.com/ruona-okungbowa/valentinesWeb)**: A web project that showcases responsive design and interactivity using HTML, CSS, and JavaScript.
-
-- **[pulse](https://github.com/ruona-okungbowa/pulse)**: A team health platform to monitor and enhance team well-being.
 
 - **[recode](https://github.com/ruona-okungbowa/recode)**: A mobile app that enhances coding skills and interview readiness through structured practice and real-time AI feedback.
 
-- **[htmlCss](https://github.com/ruona-okungbowa/htmlCss)**: A home page for the dummy company Hair Day.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruona-okungbowa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruona-okungbowa&layout=compact&theme=radical)
